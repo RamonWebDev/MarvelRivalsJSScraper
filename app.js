@@ -1,0 +1,1 @@
+api = 'https://api.tracker.gg/api/v2/marvel-rivals/standard/profile/ign/'; //api
